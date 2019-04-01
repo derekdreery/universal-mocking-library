@@ -1,0 +1,13 @@
+[package]
+name = "universal-mocking-library"
+description = "Universal mocking library"
+version = "0.1.0"
+authors = ["Richard Dodd"]
+edition = "2018"
+license = "Apache-2.0/MIT"
+readme = "README.md"
+repository = "https://github.com/derekdreery/universal-mocking-library"
+
+[dependencies]
+rand = "0.6.5"
+lazy_static = "1.3.0"
