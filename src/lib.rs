@@ -7,7 +7,8 @@ lazy_static::lazy_static! {
         "You fight like a diary farmer.",
         "Your pottery skills are lacking.",
         "You are a windows user.",
-        "Your headphones cost less than $100",
+        "Your headphones cost less than $100.",
+        "Do you even HKT?",
         "Your left knee is too circular."
     ];
 }
